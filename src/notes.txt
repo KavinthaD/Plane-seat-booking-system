@@ -1,0 +1,4 @@
+* continue from file handling to remove ticket from text file
+* try to shorten the code
+* keep checking for error handling
+* fix errors
